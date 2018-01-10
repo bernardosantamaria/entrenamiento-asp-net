@@ -1,0 +1,7 @@
+C:\Proyectos\01 Ejemplo ASP NET\slnWebFormEjemplo\Tanner.DAL\obj\Debug\Tanner.DAL.csprojResolveAssemblyReference.cache
+C:\Proyectos\01 Ejemplo ASP NET\slnWebFormEjemplo\Tanner.DAL\bin\Debug\Tanner.DAL.dll
+C:\Proyectos\01 Ejemplo ASP NET\slnWebFormEjemplo\Tanner.DAL\bin\Debug\Tanner.DAL.pdb
+C:\Proyectos\01 Ejemplo ASP NET\slnWebFormEjemplo\Tanner.DAL\bin\Debug\Tanner.DTO.dll
+C:\Proyectos\01 Ejemplo ASP NET\slnWebFormEjemplo\Tanner.DAL\bin\Debug\Tanner.DTO.pdb
+C:\Proyectos\01 Ejemplo ASP NET\slnWebFormEjemplo\Tanner.DAL\obj\Debug\Tanner.DAL.dll
+C:\Proyectos\01 Ejemplo ASP NET\slnWebFormEjemplo\Tanner.DAL\obj\Debug\Tanner.DAL.pdb

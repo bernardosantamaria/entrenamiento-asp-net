@@ -1,0 +1,4 @@
+C:\Proyectos\01 Ejemplo ASP NET\slnWebFormEjemplo\Tanner.DTO\bin\Debug\Tanner.DTO.dll
+C:\Proyectos\01 Ejemplo ASP NET\slnWebFormEjemplo\Tanner.DTO\bin\Debug\Tanner.DTO.pdb
+C:\Proyectos\01 Ejemplo ASP NET\slnWebFormEjemplo\Tanner.DTO\obj\Debug\Tanner.DTO.dll
+C:\Proyectos\01 Ejemplo ASP NET\slnWebFormEjemplo\Tanner.DTO\obj\Debug\Tanner.DTO.pdb
