@@ -18,7 +18,7 @@ namespace Tanner.Web
         {
             Tanner.BLL.Persona p = new Tanner.BLL.Persona();
             Tanner.DTO.Persona persona = new DTO.Persona();
-
+            Tanner.DTO.Persona persona1 = new DTO.Persona();
             persona.Nombre = txtNombre.Text;
             persona.Apellido = txtApellido.Text;
 
